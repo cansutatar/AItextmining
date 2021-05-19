@@ -1,0 +1,36 @@
+---
+title: "Artificial Intelligence Media Trends"
+author: "Cansu Tatar"
+date: "5/17/2021"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Introduction
+
+**Purpose:** The purpose of this project is to explore the trends related to Artificial Intelligence in the New York Times newspaper from 1986 to 2016.The media plays a powerful role to control the public perceptions.Understanding of the media's attitude toward AI can help to understand people's perspectives likewise.
+
+**Data Sources:** As data source, this project used the Fast & Horvitz (2016) AI news annotated dataset. This dataset includes the AI article information in the New York Times.
+
+**Target Audience:** This analysis may help AI educators and researchers who want to develop educational learning activities related to text mining classification task. They can use this analysis as an example to reveal possible learning opportunities.
+
+## Slide with Bullets
+
+-   Bullet 1
+-   Bullet 2
+-   Bullet 3
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
